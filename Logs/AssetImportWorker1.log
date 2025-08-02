@@ -1,0 +1,325 @@
+Using pre-set license
+Built from '6000.1/staging' branch; Version is '6000.1.12f1 (da0c3ee78ee0) revision 14289982'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 16170 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+Date: 2025-08-02T01:44:02Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.1.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Asus/Desktop/level 5 new/leve; 5 new
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+62835
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/Asus/Desktop/level 5 new/leve; 5 new
+C:/Users/Asus/Desktop/level 5 new/leve; 5 new
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [21132]  Target information:
+
+Player connection [21132]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2954060268 [EditorId] 2954060268 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-8U70O61P) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [21132]  * "[IP] 172.29.85.38 [Port] 0 [Flags] 2 [Guid] 2954060268 [EditorId] 2954060268 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-8U70O61P) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [21132] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [21132] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 184.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.1.12f1 (da0c3ee78ee0)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.1.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Asus/Desktop/level 5 new/leve; 5 new/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 4050 Laptop GPU (ID=0x28e1)
+    Vendor:          NVIDIA
+    VRAM:            5921 MB
+    App VRAM Budget: 5153 MB
+    Driver:          32.0.15.6636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56720
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002038 seconds.
+- Loaded All Assemblies, in  2.960 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.354 seconds
+Domain Reload Profiling: 3312ms
+	BeginReloadAssembly (469ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (509ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (1924ms)
+		LoadAssemblies (467ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1921ms)
+			TypeCache.Refresh (1919ms)
+				TypeCache.ScanAssembly (1413ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (355ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (314ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (51ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (61ms)
+			ProcessInitializeOnLoadAttributes (122ms)
+			ProcessInitializeOnLoadMethodAttributes (76ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.779 seconds
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.694 seconds
+Domain Reload Profiling: 4470ms
+	BeginReloadAssembly (172ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (2517ms)
+		LoadAssemblies (2291ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (326ms)
+			TypeCache.Refresh (257ms)
+				TypeCache.ScanAssembly (153ms)
+			BuildScriptInfoCaches (44ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (1695ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (525ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (110ms)
+			ProcessInitializeOnLoadAttributes (352ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6049 unused Assets / (4.3 MB). Loaded Objects now: 6747.
+Memory consumption went from 132.6 MB to 128.3 MB.
+Total: 9.373800 ms (FindLiveObjects: 0.817600 ms CreateObjectMapping: 0.571400 ms MarkObjects: 5.393800 ms  DeleteObjects: 2.585500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 47599.317907 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/InputSystemUIInputModule@64.png
+  artifactKey: Guid(3028dc075ba8c584d9bc7d1e0255e038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/InputSystemUIInputModule@64.png using Guid(3028dc075ba8c584d9bc7d1e0255e038) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06a9a40612be8f1200e8c32f72bab5b7') in 0.1037443 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprite Sheets/1 Tiles/Tiles_04.png
+  artifactKey: Guid(448339189255248428f49b6861a652e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Sheets/1 Tiles/Tiles_04.png using Guid(448339189255248428f49b6861a652e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a544e0db6fe292be3736e5b39fb0b49') in 0.0875558 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Sprite Sheets/1 Tiles/Tiles_11.png
+  artifactKey: Guid(5dc5f24b34f9d3a4daaa24436631d3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Sheets/1 Tiles/Tiles_11.png using Guid(5dc5f24b34f9d3a4daaa24436631d3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b79ca8d3cd3ddbef4bde55d420951508') in 0.0933309 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprite Sheets/1 Tiles/Tiles_31.png
+  artifactKey: Guid(fc97d5666291586498545ee8676e6008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Sheets/1 Tiles/Tiles_31.png using Guid(fc97d5666291586498545ee8676e6008) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4544118ec7e91a991c28f333341f8457') in 0.0315865 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd
+  artifactKey: Guid(2fd6421f253b4ef1a19526541f9ffc0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd using Guid(2fd6421f253b4ef1a19526541f9ffc0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80c16d76809171a020ffbcd538eb7970') in 0.0450541 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Sprite Sheets/1 Tiles/Tiles_15.png
+  artifactKey: Guid(6a9f0c35dae946f41af89e7b7da83972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Sheets/1 Tiles/Tiles_15.png using Guid(6a9f0c35dae946f41af89e7b7da83972) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4e8f8778560e9ad55bb5c0c6fcc9c55') in 0.0710263 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprite Sheets/3 Objects/Tube_11.png
+  artifactKey: Guid(89b0c4d69112c754c9872c914035466d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Sheets/3 Objects/Tube_11.png using Guid(89b0c4d69112c754c9872c914035466d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a428e7b9ba16d9d9ab013c0bc197e552') in 0.1197026 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Components/Character/Cat/Cat.prefab
+  artifactKey: Guid(8f2426a9acadc034590dddbbc6d8ce56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Components/Character/Cat/Cat.prefab using Guid(8f2426a9acadc034590dddbbc6d8ce56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff2c87f15d5302f66de816721e17b192') in 0.7791387 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Sprite Sheets/3 Objects/Tube_16.png
+  artifactKey: Guid(fc63c6f6fbe2278468a0372a7c93076f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Sheets/3 Objects/Tube_16.png using Guid(fc63c6f6fbe2278468a0372a7c93076f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '334c3bcc079651923e954b74489406d5') in 0.0351826 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Components/Character/Cat/CatDoor.prefab
+  artifactKey: Guid(fe7eb04618bb5fb429ea42a9f0a9b37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Components/Character/Cat/CatDoor.prefab using Guid(fe7eb04618bb5fb429ea42a9f0a9b37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dc0f2a8225193f62ed15eb6f6d226a5e') in 0.0314366 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Sprite Sheets/1 Tiles/Tiles_14.png
+  artifactKey: Guid(028e5f756e840414e986fdd6fa51905a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Sheets/1 Tiles/Tiles_14.png using Guid(028e5f756e840414e986fdd6fa51905a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd7873b241cc9fd4491df47736c706ddf') in 0.0151931 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Sprite Sheets/3 Objects/Tube_13.png
+  artifactKey: Guid(fef36a6d16087d44fb34b33ac71fdd4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Sheets/3 Objects/Tube_13.png using Guid(fef36a6d16087d44fb34b33ac71fdd4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0da8d9cf07722e07eddfaab32a0a0659') in 0.031626 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Sprite Sheets/1 Tiles/Tiles_29.png
+  artifactKey: Guid(b98ac97ab50f8c84580a99ebe1dafabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Sheets/1 Tiles/Tiles_29.png using Guid(b98ac97ab50f8c84580a99ebe1dafabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '07bc752fed999abdae95862c017bdf61') in 0.0310672 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Components/Character/Sam/Sam.prefab
+  artifactKey: Guid(91536c9e836dcbb4d9e694a48f66432a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Components/Character/Sam/Sam.prefab using Guid(91536c9e836dcbb4d9e694a48f66432a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4e34e2df565c892237c06eae8532da31') in 0.043957 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprite Sheets/1 Tiles/Tiles_02.png
+  artifactKey: Guid(7fdd666c6b9bcd745a2c4c7a11e61cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Sheets/1 Tiles/Tiles_02.png using Guid(7fdd666c6b9bcd745a2c4c7a11e61cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd738421d0a5da3182054c16aaa5da1f') in 0.0152768 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Components/Obstacles/HEAVY/NoFriction.physicsMaterial2D
+  artifactKey: Guid(06617bc8201090a449f3b456fe8af786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Components/Obstacles/HEAVY/NoFriction.physicsMaterial2D using Guid(06617bc8201090a449f3b456fe8af786) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1076eea936916708be9d4a22ef7d26ec') in 0.0019611 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
