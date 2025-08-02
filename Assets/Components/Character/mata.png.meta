@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: e3924292f78ec9a4b83e504dd05aa77a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7403125141163726694
+    second: mata_0
+  - first:
+      213: 5352566503116825084
+    second: mata_1
+  - first:
+      213: 685546685966656124
+    second: mata_2
+  - first:
+      213: -7635088746903062618
+    second: mata_3
+  - first:
+      213: -4201467263696788484
+    second: mata_4
+  - first:
+      213: 4377979931447820938
+    second: mata_5
+  - first:
+      213: 4918412091991293370
+    second: mata_6
+  - first:
+      213: -7237521448773596928
+    second: mata_7
+  - first:
+      213: 3965002940962621485
+    second: mata_8
+  - first:
+      213: 8827166346593510846
+    second: mata_9
+  - first:
+      213: -5180289180269306424
+    second: mata_10
+  - first:
+      213: 7734848193216735363
+    second: mata_11
+  - first:
+      213: -4010667390964469925
+    second: mata_12
+  - first:
+      213: 4075834465595588397
+    second: mata_13
+  - first:
+      213: -1240023621047369297
+    second: mata_14
+  - first:
+      213: 1218766692562565799
+    second: mata_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mata_0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1625
+        width: 592
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667d3daa71f2db660800000000000000
+      internalID: 7403125141163726694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_1
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1619
+        width: 558
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1eeee10e2284a40800000000000000
+      internalID: 5352566503116825084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_2
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1817
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c722df5241d838900800000000000000
+      internalID: 685546685966656124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_3
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1631
+        width: 552
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7b244bc37ba0690800000000000000
+      internalID: -7635088746903062618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_4
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1817
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3abe3b8c361b5c0800000000000000
+      internalID: -4201467263696788484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_5
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1633
+        width: 598
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a828cb75d85b1cc30800000000000000
+      internalID: 4377979931447820938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_6
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 1649
+        width: 372
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd70222db5b14440800000000000000
+      internalID: 4918412091991293370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_7
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 1639
+        width: 370
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009449f96982f8b90800000000000000
+      internalID: -7237521448773596928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 978
+        width: 562
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28c475da25860730800000000000000
+      internalID: 3965002940962621485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_9
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 968
+        width: 540
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb52dfd1605608a70800000000000000
+      internalID: 8827166346593510846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_10
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1170
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd9f38df6aeb18b0800000000000000
+      internalID: -5180289180269306424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_11
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 968
+        width: 532
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38861446373b75b60800000000000000
+      internalID: 7734848193216735363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_12
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1168
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fe151e14f3758c0800000000000000
+      internalID: -4010667390964469925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_13
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 991
+        width: 586
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f7e1d0ad5409830800000000000000
+      internalID: 4075834465595588397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_14
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 991
+        width: 371
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1c06a261d8acee0800000000000000
+      internalID: -1240023621047369297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mata_15
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 997
+        width: 367
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaf44e79dde9e010800000000000000
+      internalID: 1218766692562565799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ea2aac741bd353a43a31a8912d9c5102
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mata_0: 7403125141163726694
+      mata_1: 5352566503116825084
+      mata_10: -5180289180269306424
+      mata_11: 7734848193216735363
+      mata_12: -4010667390964469925
+      mata_13: 4075834465595588397
+      mata_14: -1240023621047369297
+      mata_15: 1218766692562565799
+      mata_2: 685546685966656124
+      mata_3: -7635088746903062618
+      mata_4: -4201467263696788484
+      mata_5: 4377979931447820938
+      mata_6: 4918412091991293370
+      mata_7: -7237521448773596928
+      mata_8: 3965002940962621485
+      mata_9: 8827166346593510846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
